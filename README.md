@@ -44,7 +44,7 @@ I am a **2nd Year B.Tech Artificial Intelligence & Data Science student** with a
 ## 📫 Connect With Me
 
 * GitHub: You’re already here 🙂
-* LinkedIn: www.linkedin.com/in/damasvasree-nagaraj
+* LinkedIn: www.linkedin.com/in/damasvasree
 
 ---
 
